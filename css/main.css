@@ -5,4 +5,8 @@
 
 body {
     font-family: 'IBM Plex Sans', sans-serif;
+    margin: 50px 20% 20% 50px;
+}
+h1 {
+    text-align: center;
 }
