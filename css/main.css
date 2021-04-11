@@ -39,6 +39,12 @@ code {
     margin-left: auto;
     margin-right: auto;
 }
+.gallery {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
 .codeblock {
     background-color: #181b28;
     color: #ffffff;
